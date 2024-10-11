@@ -27,6 +27,6 @@ Otherwise, it's "Weak."
 
 Provides feedback on which criteria were not met to help users improve their password.
 
-User Interaction:
+4.User Interaction:
 
 The main function prompts the user to enter a password, checks its strength, and provides feedback.
