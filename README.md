@@ -1,4 +1,4 @@
-How It Works:
+1.How It Works:
 Criteria Checks:
 
 The check_password_strength function checks for:
@@ -13,7 +13,7 @@ At least one number.
 
 At least one special character.
 
-Strength Assessment:
+2.Strength Assessment:
 
 It counts how many criteria are met.
 
@@ -23,7 +23,7 @@ If 3 criteria are met, it's "Moderate."
 
 Otherwise, it's "Weak."
 
-Feedback:
+3.Feedback:
 
 Provides feedback on which criteria were not met to help users improve their password.
 
